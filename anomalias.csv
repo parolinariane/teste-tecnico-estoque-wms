@@ -1,0 +1,13 @@
+﻿cd;codigo;lote;tipo;gravidade;acao_sugerida
+Belo Horizonte;0074500;L2401;Duplicidade;Alta;Verificar origem da duplicidade no WMS e manter apenas uma ocorrência
+Múltiplos CDs;0074500;;Divergência de descrição;Média;Padronizar descrição do produto conforme cadastro da matriz
+Múltiplos CDs;0102440;;Divergência de descrição;Média;Padronizar descrição do produto conforme cadastro da matriz
+Campinas;0074500;L2311;Produto vencido;Alta;Retirar produto do estoque
+Campinas;0081230;L2405;Produto próximo da validade;Média;Avaliar prioridade de venda ou movimentação do lote
+Campinas;0102440;;Lote ausente;Alta;Notificar estoque para informar o lote do produto
+Belo Horizonte;0067890;L2404;Produto próximo da validade;Média;Avaliar prioridade de venda ou movimentação do lote
+Belo Horizonte;0033445;L2408;Produto próximo da validade;Média;Avaliar prioridade de venda ou movimentação do lote
+São Caetano;0102440;L2309;Produto vencido;Alta;Retirar produto do estoque
+Londrina;0067890;L2404;Saldo negativo;Alta;Notificar estoque para verificar o saldo do produto
+Londrina;0067890;L2404;Produto próximo da validade;Média;Avaliar prioridade de venda ou movimentação do lote
+Londrina;0033445;L2408;Produto próximo da validade;Média;Avaliar prioridade de venda ou movimentação do lote
